@@ -8,6 +8,7 @@
   /* transition-timing-function: ease;
   transition-delay: 0.2s; */
   transition: all 0.9s ease;
+  border-radius: 10px;
 }
 
 .quote-box .text {
